@@ -3,7 +3,8 @@
 COMP 271: Data Structures and Applications
 Fall 2018 section 002
 
-In this section, you will be completing the following lab assignments:
+In this section, you will be completing the following lab assignments.
+Further details will be available from your instructor.
 
 - [Lab 0](https://github.com/LoyolaChicagoCode/cs2-lab0-hello-java): development environment
 - [Lab 1](https://gist.github.com/klaeufer/0307a93bd6477f77e232fe729ca5af82): branching and looping
