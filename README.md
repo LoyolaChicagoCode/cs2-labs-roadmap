@@ -16,4 +16,4 @@ Further details will be available from your instructor.
 - [Lab 7](https://gist.github.com/klaeufer/6e19f193398c6b920d127aef0f30f695): recursion
 - [Lab 8](https://github.com/LoyolaChicagoCode/cs2-lab8-wordcount-java): sets and maps
 - [Lab 9](https://github.com/LoyolaChicagoCode/cs2-lab9-hashtable-java): performance of hash maps vs. tree-based maps
-- [Lab 10](https://gist.github.com/klaeufer/c6236b1b4cea3a64cf25d42aa6e8bc71): graphs
+- Lab 10: binary trees - coming soon
