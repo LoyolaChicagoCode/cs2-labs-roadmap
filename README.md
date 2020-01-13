@@ -1,7 +1,8 @@
 # Loyola COMP 271 Labs Roadmap
 
 - COMP 271: Data Structures and Applications
-- Fall 2018 section 002
+- Spring 2020 section 002
+- currently under construction (order of labs will change)
 
 In this section, you will be completing the following lab assignments.
 Further details will be available from your instructor.
