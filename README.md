@@ -12,4 +12,4 @@ Further details will be available from your instructor.
 - [Lab 1](https://gist.github.com/klaeufer/6087e9da6f4783e3bc05565ddf33b96c): arrays
 - [Lab 2](https://gist.github.com/klaeufer/f41403a8a3fefab152bc245e3273519d): array-based lists
 - [Lab 3](https://github.com/LoyolaChicagoCode/cs2-lab3-listperformance-java): performance of array-based vs. linked lists
-- [Lab 4](https://github.com/LoyolaChicagoCode/cs2-lab8-wordcount-java): sets and maps
+- [Lab 4](https://github.com/LoyolaChicagoCode/cs2-lab4-wordcount-java): sets and maps
