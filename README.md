@@ -14,3 +14,4 @@ Further details will be available from your instructor.
 - [Lab 3](https://github.com/LoyolaChicagoCode/cs2-lab3-listperformance-java): performance of array-based vs. linked lists
 - [Lab 4](https://github.com/LoyolaChicagoCode/cs2-lab4-wordcount-java): sets and maps
 - [Lab 5](https://gist.github.com/klaeufer/841bdf5d49730b37e747f93eaf5f3a91): recursion and the file system
+- [Lab 6](https://github.com/LoyolaChicagoCode/cs2-lab6-mazesolver-java): recursive maze solver
