@@ -17,3 +17,4 @@ Further details will be available from your instructor.
 - [Lab 6](https://github.com/LoyolaChicagoCode/cs2-lab6-mazesolver-java): recursive maze solver
 - [GitHub Activity](https://gist.github.com/klaeufer/869ed974791256297049dee2dd920414): software development using version control 
 - [Lab 7](https://github.com/LoyolaChicagoCode/cs2-lab7-linearsearch-java): linear and binary search
+- [Lab 8](https://github.com/LoyolaChicagoCode/cs2-lab8-arrayqueue-java): array-based circular queue
