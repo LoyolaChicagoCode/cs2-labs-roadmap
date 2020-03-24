@@ -2,7 +2,6 @@
 
 - COMP 271: Data Structures and Applications
 - Spring 2020 section 002
-- currently under construction
 
 In this section, you will be completing the following lab assignments.
 Further details will be available from your instructor.
