@@ -18,9 +18,9 @@ Further details will be available from your instructor.
 - Lab 7: searching and sorting - under construction
 - [Lab 8](https://github.com/LoyolaChicagoCode/cs2-lab8-arrayqueue-java): array-based circular queue
 - [Lab 9](https://gist.github.com/klaeufer/362f94bbaaf649c6b5d7d190ee0cbd90): linked list implementation
-- [Lab 10](https://github.com/LoyolaChicagoCode/cs2-lab3-listperformance-java): performance of array-based vs. linked lists
+- [Lab 10](https://github.com/LoyolaChicagoCode/cs2-lab10-listperformance-java): performance of array-based vs. linked lists
 - [Lab 11](https://gist.github.com/klaeufer/679b33802ab48fc16807741adb248502): binary tree explorations
-- [Lab 12](https://github.com/LoyolaChicagoCode/cs2-lab11-hashtable-java): hash table implementation
+- [Lab 12](https://github.com/LoyolaChicagoCode/cs2-lab12-hashtable-java): hash table implementation
 
 Lab assignments from previous terms
 
