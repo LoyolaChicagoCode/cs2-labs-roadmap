@@ -26,3 +26,4 @@ Lab assignments from previous terms
 
 - [Lab 1'](https://gist.github.com/klaeufer/6087e9da6f4783e3bc05565ddf33b96c): arrays
 - [Lab 5'](https://gist.github.com/klaeufer/841bdf5d49730b37e747f93eaf5f3a91): recursion and the file system
+- [Lab 12'](https://github.com/LoyolaChicagoCode/cs2-lab12-linkedstack-java): linked-list based stack implementation
