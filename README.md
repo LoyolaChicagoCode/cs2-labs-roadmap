@@ -8,6 +8,7 @@ Further details will be available from your instructor.
 
 - [Design Activity 0](https://gist.github.com/klaeufer/8346cc68b9bb979f6fdcc141aed5af3b): indefinite loops
 - [Implementation Activity 0](https://gist.github.com/klaeufer/bd1f259a1b648359b09cfe9d20cf1291): indefinite loops
+  - [Min/max temp example](https://github.com/loyolachicagocode/cs2-minmaxtemp-java)
 - [Lab 1](https://gist.github.com/klaeufer/d9d32c2f27ee12f416d0e5c90480f4c0): classes
 - [Lab 2](https://gist.github.com/klaeufer/6bc78c92cdd71f99894c6b1dc44e6a29): inheritance and interfaces
 - [Lab 3](https://gist.github.com/klaeufer/f41403a8a3fefab152bc245e3273519d): array-based lists
