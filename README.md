@@ -16,10 +16,10 @@ Further details will be available from your instructor.
 - [Lab 4](https://github.com/LoyolaChicagoCode/cs2-lab4-wordcount-java): sets and maps
 - [Lab 5](https://github.com/LoyolaChicagoCode/cs2-lab5-mazesolver-stack-java): stack-based maze solver
 - [Lab 6](https://github.com/LoyolaChicagoCode/cs2-lab6-mazesolver-java): recursive maze solver
+- [GitHub Activity](https://gist.github.com/klaeufer/869ed974791256297049dee2dd920414): software development using version control
 - [Lab 7](https://github.com/LoyolaChicagoCode/cs2-lab7-linearsearch-java): linear and binary search
 - [Lab 8](https://github.com/LoyolaChicagoCode/cs2-lab8-arrayqueue-java): array-based circular queue
 - [Lab 9](https://gist.github.com/klaeufer/362f94bbaaf649c6b5d7d190ee0cbd90): linked list implementation
-- [GitHub Activity](https://gist.github.com/klaeufer/869ed974791256297049dee2dd920414): software development using version control
 - [Lab 10](https://github.com/LoyolaChicagoCode/cs2-lab10-listperformance-java): performance of array-based vs. linked lists
 - [Lab 11](https://gist.github.com/klaeufer/679b33802ab48fc16807741adb248502): binary tree explorations
 - [Lab 12](https://github.com/LoyolaChicagoCode/cs2-lab12-hashtable-java): hash table implementation
