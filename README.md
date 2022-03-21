@@ -1,6 +1,6 @@
 # Loyola COMP 271 Labs Roadmap
 
-- COMP 271: Data Structures and Applications
+- COMP 271: Data Structures I
 - Under construction for Spring 2022 section 002 - details TBA in class
 
 In this section, you will be completing the following lab assignments.
@@ -13,6 +13,7 @@ Further details will be available from your instructor.
 - [Lab 2](https://gist.github.com/klaeufer/6bc78c92cdd71f99894c6b1dc44e6a29): inheritance and interfaces
 - [Lab 3](https://gist.github.com/klaeufer/f41403a8a3fefab152bc245e3273519d): array-based lists
   - [Temp average example](https://github.com/loyolachicagocode/cs2-tempaverage-java)
+- [How to copy a GitHub Java project into your own workspace](https://gist.github.com/klaeufer/11cf4a13b5a1634d7c3991cc07ddc408)
 - [Lab 4](https://github.com/LoyolaChicagoCode/cs2-lab4-wordcount-java): sets and maps
 - [Lab 5](https://github.com/LoyolaChicagoCode/cs2-lab5-mazesolver-stack-java): stack-based maze solver
 - [Lab 6](https://github.com/LoyolaChicagoCode/cs2-lab6-mazesolver-java): recursive maze solver
