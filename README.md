@@ -1,7 +1,7 @@
 # Loyola COMP 271 Labs Roadmap
 
 - COMP 271: Data Structures and Applications
-- Under construction for Spring 2021 section 002 - details TBA in class
+- Under construction for Spring 2022 section 002 - details TBA in class
 
 In this section, you will be completing the following lab assignments.
 Further details will be available from your instructor.
