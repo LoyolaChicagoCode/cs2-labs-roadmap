@@ -7,7 +7,7 @@ In this section, you will be completing the following lab assignments.
 Further details will be available from your instructor.
 
 - [Design Activity 0](https://github.com/LoyolaChicagoCode/cs2-lab0a-design): indefinite loops
-- [Implementation Activity 0](https://github.com/LoyolaChicagoCode/cs2-lab0-impl-java): indefinite loops
+- [Implementation Activity 0](https://github.com/LoyolaChicagoCode/cs2-lab0b-impl-java): indefinite loops
   - [Min/max temp example](https://github.com/loyolachicagocode/cs2-minmaxtemp-java)
 - [Lab 1](https://github.com/LoyolaChicagoCode/cs2-lab1-classes-java): classes
 - [Lab 2](https://github.com/LoyolaChicagoCode/cs2-lab2-inheritance-java): inheritance and interfaces
