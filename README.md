@@ -4,8 +4,7 @@
 - Under construction for Spring 2022 section 002 - details TBA in class
 
 In this section, you will be completing the following lab assignments.
-*If you are registered for a class section, you should receive GitHub Classroom invites to work on these assignments; 
-further details will be available from your instructor.*
+*Do not import these repositories directly; instead, your instructor will provide GitHub Classroom invites to work on the assignments.*
 
 - [Design Activity 0](https://github.com/LoyolaChicagoCode/cs2-lab0a-design): indefinite loops
 - [Implementation Activity 0](https://github.com/LoyolaChicagoCode/cs2-lab0b-impl-java): indefinite loops
