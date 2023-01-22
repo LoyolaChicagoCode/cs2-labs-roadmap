@@ -1,7 +1,8 @@
 # Loyola COMP 271 Labs Roadmap
 
 - COMP 271: Data Structures I
-- Under construction for Spring 2022 section 002 - details TBA in class
+- Under construction for Spring 2023 section 002 - details TBA in class
+- Actual work to be done in [Replit](https://replit.com/team/luc-comp-271-002-s23)
 
 In this section, you will be completing the following lab assignments.
 *Do not import these repositories directly; instead, your instructor will provide GitHub Classroom invites to work on the assignments.*
