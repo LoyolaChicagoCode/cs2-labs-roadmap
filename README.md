@@ -8,7 +8,7 @@ In this section, you will be completing the following lab assignments.
 *Do not import these repositories directly; instead, your instructor will provide GitHub Classroom invites to work on the assignments.*
 
 - Lab 1: palindrome
-- [Project 1](https://github.com/LoyolaChicagoCode/cs2-project1): indefinite loops
+- [Project 1](https://github.com/LoyolaChicagoCode/cs2-project1-rainfall-java): indefinite loops
   - [Min/max temp example](https://github.com/loyolachicagocode/cs2-minmaxtemp-java)
 - [Project 2](https://github.com/LoyolaChicagoCode/cs2-project2-classes-java): classes
 - [Project 3](https://github.com/LoyolaChicagoCode/cs2-project3-inheritance-java): inheritance and interfaces
