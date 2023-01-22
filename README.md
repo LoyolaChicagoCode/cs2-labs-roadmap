@@ -14,7 +14,7 @@ In this section, you will be completing the following lab assignments.
 - [Project 3](https://github.com/LoyolaChicagoCode/cs2-project3-inheritance-java): inheritance and interfaces
 - [Project 4](https://github.com/LoyolaChicagoCode/cs2-project4-arraylists-java): array-based lists
   - [Temp average example](https://github.com/loyolachicagocode/cs2-tempaverage-java)
-- [Project 5](https://github.com/LoyolaChicagoCode/cs2-project5-wordcount-java): sets and maps
+- [Project 5](https://github.com/LoyolaChicagoCode/cs2-project5-wordcount-java): word count using maps
 - [Project 6](https://github.com/LoyolaChicagoCode/cs2-project6-arrayqueue-java): array-based circular queue
 - [Project 7](https://github.com/LoyolaChicagoCode/cs2-project7-mazesolver-stack-java): stack-based maze solver
 - [Project 8](https://github.com/LoyolaChicagoCode/cs2-project8-mazesolver-java): recursive maze solver
