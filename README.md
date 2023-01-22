@@ -18,7 +18,7 @@ In this section, you will be completing the following lab assignments.
 - [Project 6](https://github.com/LoyolaChicagoCode/cs2-project6-arrayqueue-java): array-based circular queue
 - [Project 7](https://github.com/LoyolaChicagoCode/cs2-project7-mazesolver-stack-java): stack-based maze solver
 - [Project 8](https://github.com/LoyolaChicagoCode/cs2-project8-mazesolver-java): recursive maze solver
-- [Project 9](https://github.com/LoyolaChicagoCode/cs2-project9-searching-java): linear and binary search on geodata
+- [Project 9](https://github.com/LoyolaChicagoCode/cs2-project9-searching-java): searching and sorting on geodata
 - [Project 10](https://github.com/LoyolaChicagoCode/cs2-project10-linkedlists-java): linked list implementation
 - [Project 11](https://github.com/LoyolaChicagoCode/cs2-project11-listperformance-java): performance of array-based vs. linked lists
 - [Project 12](https://github.com/LoyolaChicagoCode/cs2-project12-bintrees-java): binary tree explorations
